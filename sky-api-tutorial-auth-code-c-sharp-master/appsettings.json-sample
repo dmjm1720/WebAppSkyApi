@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "AuthClientId": "4236958c-f0b6-4dbe-968e-b2bc851bc49b",
+    "AuthClientSecret": "qQWKo+TkPkdFYoBxKwJX0GIoLIa7DauxjuQZi9TU31g=",
+    "AuthRedirectUri": "http://localhost:55462/auth/callback",
+    "AuthSubscriptionKey": "86be8db6c53b474e99f9311f928623be"
+  }
+}
